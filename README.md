@@ -1,16 +1,16 @@
-## Hi there 👋
+ bem-vindo ao meu perfil 
 
-<!--
-**Davi96cwb/Davi96cwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome é davi inã da Silva de Carvalho
 
-Here are some ideas to get you started:
+ estou estudando o alura
+ estou me devolvendo na linguagem Javascript 
+ utilizo esse espaço para minha organização e compartilhamento dos meus projetos devolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ para você entrar em contato comigo 
+
+ Davi.silva.carvalho@escola.pr.gov.br
+
+ @d_silva_96
+
+ ![](![image](https://github.com/user-attachments/assets/de11db09-ca5f-466e-bdc5-ae9b29ce9e94)
+
